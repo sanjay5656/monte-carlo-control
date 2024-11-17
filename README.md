@@ -88,20 +88,12 @@ def mc_control(env,
 ### NAME : SANJAY S
 ### REG NO : 212221243002
 
-### Action value function 
-![1](https://github.com/user-attachments/assets/6d93f96b-75a5-4744-b552-9550539586bd)
-
-
-### Optimal value function
-![image](https://github.com/user-attachments/assets/f1cf3e23-07f2-454b-bbc0-af297db5f3fd)
-
-
-### Optimal policy
-![image](https://github.com/user-attachments/assets/ea0d948d-4f70-4042-a22b-e09f62a90c4d)
+### Action value function, Optimal value function and Optimal policy
+![alt text](o1.png)
 
 
 ### Success rate for the optimal policy
-![4](https://github.com/user-attachments/assets/f538b1a0-f7cf-49e0-8840-8a8a6b4bf827)
+![alt text](o2.png)
 
 
 ## RESULT:
